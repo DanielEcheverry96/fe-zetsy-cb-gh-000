@@ -57,6 +57,9 @@ header a{
 
 header a:hover{
 	color: rgb(111,127,122);
+	-webkit-transition: .3s ease-out;
+	-moz-transition: .3s ease-out;
+	-o-transition: .3s ease-out;
 	transition: .3s;
 }
 
