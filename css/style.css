@@ -49,12 +49,12 @@ p{
 header a{
 	color: rgb(152,173,166);
 	text-decoration: none;
-	transition: .4s;
+	transition: .3s;
 }
 
 header a:hover{
 	color: rgb(111,127,122);
-	transition: .4s;
+	transition: .3s;
 }
 
 #about img{
