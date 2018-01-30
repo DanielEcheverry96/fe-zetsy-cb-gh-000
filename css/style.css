@@ -60,7 +60,7 @@ header a:hover{
 	-webkit-transition: .3s ease-out;
 	-moz-transition: .3s ease-out;
 	-o-transition: .3s ease-out;
-	transition: .3s;
+	transition: .3s ease-out;
 }
 
 #about img{
@@ -82,7 +82,10 @@ header a:hover{
 
 #press img{
 	border: 5px solid  #ccc;
-	transition: .4s;
+	-webkit-transition: .3s ease-out;
+	-moz-transition: .3s ease-out;
+	-o-transition: .3s ease-out;
+	transition: .3s;
 }
 
 #press img:hover{
