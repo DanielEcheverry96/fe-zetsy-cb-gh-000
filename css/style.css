@@ -49,6 +49,9 @@ p{
 header a{
 	color: rgb(152,173,166);
 	text-decoration: none;
+	-webkit-transition: .3s ease-out;
+	-moz-transition: .3s ease-out;
+	-o-transition: .3s ease-out;
 	transition: .3s ease-out;
 }
 
