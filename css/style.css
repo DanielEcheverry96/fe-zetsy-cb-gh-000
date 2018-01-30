@@ -74,10 +74,12 @@ header a:hover{
 
 #press img{
 	border: 5px solid  #ccc;
+	transition: .4s;
 }
 
 #press img:hover{
 	border: 5px solid  rgb(111,127,122);
+	transition: .4s;
 }
 
 footer{
