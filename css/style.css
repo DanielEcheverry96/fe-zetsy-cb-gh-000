@@ -85,12 +85,15 @@ header a:hover{
 	-webkit-transition: .3s ease-out;
 	-moz-transition: .3s ease-out;
 	-o-transition: .3s ease-out;
-	transition: .3s;
+	transition: .3s ease-out;
 }
 
 #press img:hover{
 	border: 5px solid  rgb(111,127,122);
-	transition: .4s;
+	-webkit-transition: .3s ease-out;
+	-moz-transition: .3s ease-out;
+	-o-transition: .3s ease-out;
+	transition: .3s ease-out;
 }
 
 footer{
