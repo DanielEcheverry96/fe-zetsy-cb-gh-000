@@ -94,6 +94,7 @@ header a:hover{
 
 #press img{
 	border: 5px solid  #ccc;
+	padding: 1px;
 	-webkit-transition: .3s ease-out;
 	-moz-transition: .3s ease-out;
 	-o-transition: .3s ease-out;
