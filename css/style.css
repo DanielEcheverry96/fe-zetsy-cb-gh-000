@@ -58,6 +58,12 @@ p{
 #press{
 	margin-bottom: 20px;
 }
+
+#about img{
+	border: 5px solid  rgb(152,173,166);
+}
+
+
 /*font-size: 5em;
 margin: 0 0 5px;
 font-family: 'Baskerville', serif;
